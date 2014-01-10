@@ -1,9 +1,9 @@
 Applecoin integration/staging tree
 ================================
 
-http://www.coingen.io
-
 Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2014 Applecoin Developers
+
 
 What is Applecoin?
 ----------------
@@ -14,8 +14,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Applecoin is also the name of the open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Applecoin client software, see http://www.coingen.io.
 
 License
 -------
@@ -31,7 +29,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Bitcoin
+If it is a simple/trivial/non-controversial change, then one of the Applecoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -81,4 +79,4 @@ for the build/test scripts.
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 
-See https://github.com/bitcoin/QA/ for how to create a test plan.
+
